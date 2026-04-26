@@ -1,5 +1,3 @@
-package github
-
 import (
 	"context"
 	"encoding/base64"
